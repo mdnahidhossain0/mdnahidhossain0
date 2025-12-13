@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdnahidhossain0" alt="mdnahidhossain0" /></a> </p>
 
-- 🔭 I’m currently working on [Fasteszz](https://fasteszz.com/)
+- 🔭 I’m currently Chairman of [Fasteszz Ltd.](https://fasteszz.com/)
 
 - 🌱 I’m currently learning **Django,React**
 
