@@ -71,17 +71,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnahidhossain0&layout=compact" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnahidhossain0&show_icons=true" />
-</p>
-
----
-
 ### 💡 Vision Statement
 > *“I believe technology should solve real problems, scale efficiently, and create long-term impact.  
 My goal is to build companies, not just code.”*
