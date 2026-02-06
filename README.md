@@ -1,20 +1,23 @@
 <h1 align="center">👋 Hi, I'm Nahid Hossain</h1>
-<h3 align="center"> Chairman • Software Engineer </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Chairman+%7C+Software+Engineer;Founder+at+Fasteszz+Ltd.;Building+Scalable+Tech+Startups;Tech-Driven+Vision+from+Bangladesh+🇧🇩" />
+</p>
+
 <h4 align="center">Building scalable products & tech-driven startups from Bangladesh 🇧🇩</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdnahidhossain0&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdnahidhossain0&theme=onedark&row=1&column=6&v=1" />
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=mdnahidhossain0&row=1&column=6">
-  </a>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420"/>
 </p>
 
 ---
 
 ## 🏢 Founder Profile
-- 👔 **Chairman & COO ** at <a href="https://fasteszz.com/" target="_blank"><b>Fasteszz Ltd.</b></a>
+- 👔 **Chairman & COO** at <a href="https://fasteszz.com/" target="_blank"><b>Fasteszz Ltd.</b></a>
 - 🚀 Passionate about **building startups, scalable systems & digital products**
 - 🧠 Strong focus on **Business + Technology alignment**
 - 🌍 Location: **Bangladesh**
@@ -25,16 +28,16 @@
 - 🌱 Learning **Django, React**
 - 🧩 Exploring **Database Architecture**
 - 🏗️ Studying **System Design & Scalable Backend Systems**
-- 📈 Improving **startup leadership , product strategy & bussiness analysis**
+- 📈 Improving **Startup Leadership, Product Strategy & Business Analysis**
 
 ---
 
 ## 🧠 Core Strengths
-- Startup mindset & leadership
-- Backend system design
-- Full-stack web development
-- Problem solving & architecture thinking
-- Clean, maintainable code
+- Startup mindset & leadership  
+- Backend system design  
+- Full-stack web development  
+- Problem solving & architecture thinking  
+- Clean, maintainable code  
 
 ---
 
@@ -58,6 +61,24 @@
 <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
 <a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdnahidhossain0&show_icons=true&theme=tokyonight&count_private=true&v=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahidhossain0&theme=tokyonight&v=1" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdnahidhossain0&theme=onedark&row=1&column=6&v=2" />
 </p>
 
 ---
