@@ -1,30 +1,44 @@
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║         NAHID HOSSAIN — GITHUB PROFILE README            ║ -->
-<!-- ║      Chairman · Engineer · AI Builder · Founder          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<!-- ░░░░░░░░░░░░░░░  ANIMATED HERO HEADER  ░░░░░░░░░░░░░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:020917,15:060f20,35:0a1f3d,60:0d3d7a,80:0e65b0,100:00d4ff&height=200&section=header&reversal=false&animation=fadeIn"/>
+<!-- ══════════════  ANIMATED HEADER — NAME CENTERED  ══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020917,30:0a1f3d,60:0e5599,85:0e75b6,100:00d4ff&height=280&section=header&text=Nahid%20Hossain&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=⚡%20Chairman%20·%20AI%20Engineer%20·%20Founder%20@%20Fasteszz%20Ltd.%20⚡&descAlign=50&descAlignY=65&descSize=18&descColor=a8d8ff&animation=fadeIn&stroke=00d4ff&strokeWidth=2"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020917,30:071020,65:0b2d5e,100:0e75b6&height=120&text=⚡%20NAHID%20HOSSAIN%20⚡&fontSize=72&fontColor=ffffff&fontAlign=50&fontAlignY=60&desc=Chairman%20·%20AI%20Engineer%20·%20Founder%20%40%20Fasteszz%20Ltd.&descAlign=50&descAlignY=85&descSize=17&descColor=00d4ff&animation=blinking"/>
+<!-- ══════════════  ANIMATED GREETING  ══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&duration=1800&pause=500&color=00D4FF&center=true&vCenter=true&repeat=true&width=900&height=55&lines=👋+Welcome+to+my+GitHub!;🤖+AI+Engineer+%7C+LangChain+·+NumPy+·+Pandas+·+FastAPI;🚀+Chairman+%26+COO+%40+Fasteszz+Ltd.+%7C+Bangladesh+🇧🇩;🏗️+System+Design+%7C+Scalable+Backends+%7C+Microservices;🔥+Django+·+FastAPI+·+React+·+Docker+·+Kubernetes;🧠+LLM+%7C+RAG+Pipelines+%7C+LangChain+Agents;💡+Idea+→+Architecture+→+Product+→+Scale+→+Impact" />
 
-<!-- ░░░░░░░░░░░░░  MULTI-LINE TYPING EFFECT  ░░░░░░░░░░░░░ -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=20&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&repeat=true&width=900&height=50&lines=🤖+AI+Engineer+%7C+LangChain+%7C+NumPy+%7C+Pandas+%7C+FastAPI;🚀+Chairman+%26+COO+%40+Fasteszz+Ltd.+%7C+Bangladesh+🇧🇩;🏗️+System+Design+%7C+Scalable+Backend+%7C+Microservices;🔥+Django+%7C+FastAPI+%7C+React+%7C+Docker+%7C+Kubernetes;🧠+Building+AI-Powered+Products+from+Bangladesh;💡+From+Idea+→+Architecture+→+Product+→+Scale" />
 
-<br/><br/>
-
-<!-- ░░░░░░░░░░░░░░░░  STATUS BADGES  ░░░░░░░░░░░░░░░░ -->
+<!-- ══════════════  STATUS PILLS  ══════════════ -->
 <a href="https://fasteszz.com">
-  <img src="https://img.shields.io/badge/🏢_Fasteszz_Ltd.-LIVE-00d4ff?style=for-the-badge&labelColor=020917&color=00d4ff"/>
-</a>
-<img src="https://img.shields.io/badge/🤖_AI_Builder-Active-brightgreen?style=for-the-badge&labelColor=020917"/>
-<img src="https://img.shields.io/badge/🌍_Bangladesh-GMT%2B6-0e75b6?style=for-the-badge&labelColor=020917"/>
-<img src="https://img.shields.io/badge/💼_Open_To-Collabs_%26_AI_Projects-ff6b35?style=for-the-badge&labelColor=020917"/>
+  <img src="https://img.shields.io/badge/🏢%20Fasteszz%20Ltd.-LIVE-00d4ff?style=flat-square&labelColor=020917"/>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/🤖%20AI%20Builder-Active-00e676?style=flat-square&labelColor=020917"/>&nbsp;
+<img src="https://img.shields.io/badge/📍%20Bangladesh-GMT%2B6-0e75b6?style=flat-square&labelColor=020917"/>&nbsp;
+<img src="https://img.shields.io/badge/💼%20Open%20To-Collabs%20%26%20AI%20Projects-ff6b35?style=flat-square&labelColor=020917"/>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=mdnahidhossain0&label=👁%20Views&color=00d4ff&style=flat-square&labelColor=020917"/>
 
 <br/><br/>
+
+<!-- ══════════════  SOCIAL BUTTONS  ══════════════ -->
+<a href="https://linkedin.com/in/mr-nahid-a6320332a">
+  <img height="36" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>&ensp;
+<a href="https://fasteszz.com">
+  <img height="36" src="https://img.shields.io/badge/🌐%20fasteszz.com-Visit%20Now-00d4ff?style=for-the-badge&labelColor=0d1117"/>
+</a>&ensp;
+<a href="https://github.com/mdnahidhossain0?tab=repositories">
+  <img height="36" src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>&ensp;
+<a href="mailto:nahid@fasteszz.com">
+  <img height="36" src="https://img.shields.io/badge/Email-Reach%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+<!-- ══════════════  ANIMATED DIVIDER  ══════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
 
 <!-- ░░░░░░░░░░░░░░░░  SOCIAL LINKS  ░░░░░░░░░░░░░░░░ -->
 <a href="https://linkedin.com/in/mr-nahid-a6320332a">
@@ -405,7 +419,7 @@ greet()
 <!-- ████████████████████████████████████████████████████████ -->
 
 <div align="center">
-<h2>🐍 &nbsp; Watch the Snake Eat My Contributions!</h2>
+<h2>🐍 &nbsp;  Snake is Eating My Contributions!</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -417,38 +431,6 @@ greet()
 </picture>
 
 </div>
-
-<details>
-<summary>&nbsp;⚙️ &nbsp;<b>Setup Snake Animation (1-click GitHub Action)</b></summary>
-<br/>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: 🐍 Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: mdnahidhossain0
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
 
 <br/>
 
